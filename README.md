@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rj Rayat</h1>
-<h3 align="center">A passionate Full Stack MERN Developer & Technical Instructor</h3>
+<h3 align="center">A passionate Software Engineer & Technical Instructor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rj-rayat&style=flat-square&color=00ff66" alt="rj-rayat visitor count"/>
