@@ -1,9 +1,5 @@
 <table border="0">
   <tr>
-    <td width="35%" align="center" valign="top">
-      <br/>
-      <img src="https://github.com/rj-rayat.png" style="border-radius: 20px; height: auto; width:400px;" alt="Rj Rayat" />
-    </td>
     <td width="65%" valign="top">
       <h1>Rj Rayat</h1>
       <h3>Software Engineer & Technical Instructor</h3>
