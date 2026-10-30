@@ -9,8 +9,8 @@
 ---
 
 ### 💻 About Me:
-- 🌱 I’m currently working as a **Full Stack Web Developer & Technical Instructor**.
-- 💡 Passionate about building robust web apps, UI/UX designing, and exploring AI-driven workflows.
+- 🌱 I’m currently working as a ** Software Developer & Programming Instructor**.
+- 💡 Passionate about building web apps, Software, and exploring AI-driven workflows.
 - ⚡ In my free time, I love solving algorithmic logic and competitive programming tasks.
 
 ---
