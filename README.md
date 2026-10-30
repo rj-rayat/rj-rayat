@@ -8,7 +8,6 @@
       <h1>Hi 👋, I'm Rj Rayat</h1>
       <h3>Software Engineer & Technical Instructor</h3>
       <p>
-        <a href="https://rjrayat.vercel.app"><img src="https://img.shields.io/badge/Website-rjrayat.vercel.app-00ff66?style=flat-square&logo=vercel&logoColor=black" /></a>
         <a href="mailto:rayatrj36@gmail.com"><img src="https://img.shields.io/badge/Email-rayatrj36%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
         <img src="https://img.shields.io/github/followers/rj-rayat?label=Followers&style=flat-square&color=00ff66" alt="Followers"/>
       </p>
@@ -68,7 +67,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rj-rayat&theme=dark&hide_border=true" width="100%" alt="Rj Rayat Streak Graph" />
 </p>
 
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rj-rayat&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rj-rayat&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-</p>
+<hr/>
+
+
