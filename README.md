@@ -2,10 +2,10 @@
   <tr>
     <td width="35%" align="center" valign="top">
       <br/>
-      <img src="https://github.com/rj-rayat.png" width="100%" style="border-radius: 12px;" alt="Rj Rayat" />
+      <img src="https://github.com/rj-rayat.png" style="border-radius: 20px; height: auto; width:400px;" alt="Rj Rayat" />
     </td>
     <td width="65%" valign="top">
-      <h1>Hi 👋, I'm Rj Rayat</h1>
+      <h1>Rj Rayat</h1>
       <h3>Software Engineer & Technical Instructor</h3>
       <p>
         <a href="mailto:rayatrj36@gmail.com"><img src="https://img.shields.io/badge/Email-rayatrj36%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
