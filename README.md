@@ -1,29 +1,38 @@
-<div align="center">
-  <img src="https://github.com/rj-rayat.png" width="180" height="180" style="border-radius: 50%;" alt="Rj Rayat Avatar" />
-  
-  # Hi 👋, I'm Rj Rayat
-  ### Software Engineer & Technical Instructor
-  
-  <p align="center">
-    <a href="https://rjrayat.vercel.app"><img src="https://img.shields.io/badge/Website-rjrayat.vercel.app-00ff66?style=flat-square&logo=vercel&logoColor=black" /></a>
-    <a href="mailto:rayatrj36@gmail.com"><img src="https://img.shields.io/badge/Email-rayatrj36%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
-    <img src="https://komarev.com/ghpvc/?username=rj-rayat&style=flat-square&color=00ff66" alt="Visitor Count"/>
-    <img src="https://img.shields.io/github/followers/rj-rayat?label=Followers&style=flat-square&color=00ff66" alt="Followers"/>
-  </p>
-</div>
+<table>
+  <tr>
+    <!-- Bam Pashe Chobi -->
+    <td width="30%" align="center" valign="top">
+      <br/>
+      <img src="https://github.com/rj-rayat.png" width="100%" style="border-radius: 12px;" alt="Rj Rayat" />
+    </td>
+    
+    <!-- Dan Pashe Intro, Badges & About -->
+    <td width="70%" valign="top">
+      <h1>Hi 👋, I'm Rj Rayat</h1>
+      <h3>Software Engineer & Technical Instructor</h3>
+      
+      <p>
+        <a href="https://rjrayat.vercel.app"><img src="https://img.shields.io/badge/Website-rjrayat.vercel.app-00ff66?style=flat-square&logo=vercel&logoColor=black" /></a>
+        <a href="mailto:rayatrj36@gmail.com"><img src="https://img.shields.io/badge/Email-rayatrj36%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
+        <img src="https://komarev.com/ghpvc/?username=rj-rayat&style=flat-square&color=00ff66" alt="Visitor Count"/>
+        <img src="https://img.shields.io/github/followers/rj-rayat?label=Followers&style=flat-square&color=00ff66" alt="Followers"/>
+      </p>
 
----
+      ---
 
-### 💻 About Me
-- 🌱 Working as a **Software Developer & Programming Instructor**.
-- 💡 Passionate about building scalable web applications, systems engineering, and exploring AI-driven workflows.
-- ⚡ Deeply interested in C/C++ memory mechanics, systems programming, and competitive problem solving.
+      ### 💻 About Me
+      - 🌱 Working as a **Software Developer & Programming Instructor**.
+      - 💡 Passionate about building scalable web applications, systems engineering, and exploring AI-driven workflows.
+      - ⚡ Deeply interested in C/C++ memory mechanics, systems programming, and competitive problem solving.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages**  
+**Languages & Web Foundations**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,15 +62,15 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**OS & Platforms**  
+**OS & System Tools**  
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CEEB?style=for-the-badge&logo=linuxmint&logoColor=black)
 
 ---
 
-### 📈 Activity & Coding Graph
+### 📊 Activity & Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rj-rayat&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rj-rayat&theme=react-dark&hide_border=true&area=true" width="100%" alt="Rj Rayat Activity Graph" />
 </p>
 
 <p align="center">
