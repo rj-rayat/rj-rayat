@@ -1,34 +1,29 @@
-<table>
+<table border="0">
   <tr>
-    <!-- Bam Pashe Chobi -->
-    <td width="30%" align="center" valign="top">
+    <td width="35%" align="center" valign="top">
       <br/>
       <img src="https://github.com/rj-rayat.png" width="100%" style="border-radius: 12px;" alt="Rj Rayat" />
     </td>
-    
-    <!-- Dan Pashe Intro, Badges & About -->
-    <td width="70%" valign="top">
+    <td width="65%" valign="top">
       <h1>Hi 👋, I'm Rj Rayat</h1>
       <h3>Software Engineer & Technical Instructor</h3>
-      
       <p>
         <a href="https://rjrayat.vercel.app"><img src="https://img.shields.io/badge/Website-rjrayat.vercel.app-00ff66?style=flat-square&logo=vercel&logoColor=black" /></a>
         <a href="mailto:rayatrj36@gmail.com"><img src="https://img.shields.io/badge/Email-rayatrj36%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
-        <img src="https://komarev.com/ghpvc/?username=rj-rayat&style=flat-square&color=00ff66" alt="Visitor Count"/>
         <img src="https://img.shields.io/github/followers/rj-rayat?label=Followers&style=flat-square&color=00ff66" alt="Followers"/>
       </p>
-
-      ---
-
-      ### 💻 About Me
-      - 🌱 Working as a **Software Developer & Programming Instructor**.
-      - 💡 Passionate about building scalable web applications, systems engineering, and exploring AI-driven workflows.
-      - ⚡ Deeply interested in C/C++ memory mechanics, systems programming, and competitive problem solving.
+      <hr/>
+      <h3>💻 About Me</h3>
+      <ul>
+        <li>🌱 Working as a <b>Software Developer & Programming Instructor</b>.</li>
+        <li>💡 Passionate about building scalable web applications, systems engineering, and exploring AI-driven workflows.</li>
+        <li>⚡ Deeply interested in C/C++ memory mechanics, systems programming, and competitive problem solving.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
----
+<hr/>
 
 ### 🛠️ Tech Stack & Tools
 
@@ -65,12 +60,12 @@
 **OS & System Tools**  
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CEEB?style=for-the-badge&logo=linuxmint&logoColor=black)
 
----
+<hr/>
 
-### 📊 Activity & Contribution Graph
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rj-rayat&theme=react-dark&hide_border=true&area=true" width="100%" alt="Rj Rayat Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rj-rayat&theme=dark&hide_border=true" width="100%" alt="Rj Rayat Streak Graph" />
 </p>
 
 <p align="center">
